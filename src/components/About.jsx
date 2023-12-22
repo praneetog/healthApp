@@ -16,9 +16,9 @@ const About = () => {
             </ul>
             <ul className='flex flex-col items-start  w-[75%] border p-5 rounded-md ml-15'>
             <li className='text-3xl text-pink-600 mb-10'>Why Mental Health Matters to Us</li>
-            <li className='mb-2 text-md font-bold text-white'>In today's society, the demands and expectations placed on us can sometimes become overwhelming. The relentless pursuit of success, the constant comparison on social media, and the stressors of academic and personal life can take a toll on our mental well-being. It's no surprise that many of us find ourselves battling feelings of stress, anxiety, and depression.</li>
+            <li className='mb-2 text-md font-bold text-white'>In today's society, the demands and expectations placed on us can sometimes become overwhelming. The relentless pursuit of success, the constant comparison on social media, and the stressors of academic and personal life can take a toll on our mental well-being.  and depression.</li>
             </ul>
-
+            {/* It's no surprise that many of us find ourselves battling feelings of stress, anxiety, */}
         </div>
 
 
